@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000</color>
+    <color name="colorPrimaryDark">#FBC000</color>
+    <color name="colorAccent">#000000</color>
+
+    <color name="theme_color">#FBC000</color>
+    <color name="theme_color_transparent">#FAFBC000</color>
+    <color name="blue_light_color">#1A619E</color>
+    <color name="blue_dark_color">#044A6C</color>
+    <color name="facebook_color">#3C5A9A</color>
+    <color name="green_color">#88D969</color>
+    <color name="green_dark_color">#06A10B</color>
+    <color name="orange_color">#F98B3C</color>
+    <color name="orange_light_color">#fad8b0</color>
+    <color name="orange_dark_color">#ff9419</color>
+    <color name="red_color">#ff6161</color>
+    <color name="red_dark_color">#be3337</color>
+    <color name="yellow_dark_color">#f7d308</color>
+    <color name="yellow_color">#FBC000</color>
+
+    <color name="blue_color">#4016BD</color>
+    <color name="blue_tran_color">#BFD4FF</color>
+    <color name="blue_bg">#EAEFF2</color>
+    <color name="blue_light">#EAEEF1</color>
+    <color name="purple_light_color">#6335E6</color>
+    <color name="purple_dark_color">#4016BD</color>
+
+
+    <color name="white_color">#ffffff</color>
+    <color name="white_transparent_5">#08ffffff</color>
+    <color name="white_transparent_8">#16ffffff</color>
+    <color name="white_transparent_75">#BFffffff</color>
+    <color name="white_transparent_60">#60ffffff</color>
+    <color name="white_transparent_80">#99ffffff</color>
+
+    <color name="gray_check_color">#E2E2E2</color>
+    <color name="gray_uncheck_color">#f0f0f0</color>
+
+    <color name="gray_dark_color">#999999</color>
+    <color name="black_light_color">#C9CED2</color>
+    <color name="gray_color">#A0A0A0</color>
+    <color name="gray_bg">#f1f1f1</color>
+    <color name="text_div_line">#DADEE1</color>
+    <color name="gray_light_color">#e8e8e8</color>
+    <color name="gray_transparent_40">#40202020</color>
+    <color name="gray_transparent_60">#802A2A2A</color>
+    <color name="black_transparent_60">#99000000</color>
+    <color name="black_transparent_75">#F2000000</color>
+    <color name="black_transparent_90">#E6000000</color>
+    <color name="black_color">#000000</color>
+
+
+
+
+</resources>

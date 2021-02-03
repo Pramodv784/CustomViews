@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomText">
+        <attr name="textColor" format="enum">
+            <enum name="defaultColor" value="0"/>
+            <enum name="colorWhite" value="1"/>
+            <enum name="colorBlack" value="2"/>
+            <enum name="colorGray" value="3"/>
+            <enum name="colorBrown" value="4"/>
+            <enum name="colorRed" value="5"/>
+            <enum name="colorYellow" value="6"/>
+            <enum name="colorLightBrown" value="7"/>
+            <enum name="colorGreen" value="8"/>
+            <enum name="colorBlue" value="9"/>
+            <enum name="colorBlueDark" value="10"/>
+            <enum name="colorOrange" value="11"/>
+        </attr>
+
+        <attr name="textColorHint" format="enum">
+            <enum name="defaultColor" value="0"/>
+            <enum name="colorWhite" value="1"/>
+            <enum name="colorBlack" value="2"/>
+            <enum name="colorGray" value="3"/>
+            <enum name="colorBrown" value="4"/>
+            <enum name="colorRed" value="5"/>
+            <enum name="colorYellow" value="6"/>
+            <enum name="colorLightBrown" value="7"/>
+            <enum name="colorGreen" value="8"/>
+            <enum name="colorBlue" value="9"/>
+            <enum name="colorBlueDark" value="10"/>
+        </attr>
+
+        <attr name="textSize" format="enum">
+            <enum name="defaultSize" value="0"/>
+            <enum name="extra_large" value="1"/>
+            <enum name="large" value="2"/>
+            <enum name="medium" value="3"/>
+            <enum name="small" value="4"/>
+            <enum name="micro" value="5"/>
+            <enum name="micro_12" value="6"/>
+            <enum name="micro_10" value="7"/>
+            <enum name="micro_8" value="8"/>
+            <enum name="title_size" value="9"/>
+            <enum name="title_size_high" value="10"/>
+        </attr>
+
+        <attr name="inputType" format="enum">
+            <enum name="defaultInputType" value="0"/>
+            <enum name="emailInputType" value="1"/>
+            <enum name="mobileInputType" value="2"/>
+            <enum name="passwordInputType" value="3"/>
+            <enum name="multiLineInputType" value="4"/>
+            <enum name="userNameInputType" value="5"/>
+
+        </attr>
+
+        <attr name="errorType" format="enum">
+            <enum name="errorWithEditText" value="1"/>
+            <enum name="errorAfterValidation" value="0"/>
+
+        </attr>
+
+    </declare-styleable>
+
+    <declare-styleable name="RangeSeekBar">
+        <!-- the minimum of the range -->
+        <attr name="absoluteMinValue" format="integer|float"/>
+
+        <!-- the maximum of the range -->
+        <attr name="absoluteMaxValue" format="integer|float"/>
+
+        <!-- the step value -->
+        <attr name="step" format="integer|float"/>
+
+        <!-- show a single slider -->
+        <attr name="singleThumb" format="boolean"/>
+
+        <!-- show the labels on the right and left-->
+        <attr name="showLabels" format="boolean"/>
+
+        <!-- alwaysActive will make the buttons and bar always draw as the activeColor (the default is false) -->
+        <attr name="alwaysActive" format="boolean"/>
+
+        <!-- show the currently selected value above each thumb (defaults to true) -->
+        <attr name="valuesAboveThumbs" format="boolean"/>
+
+        <!-- padding on either side on the slider -->
+        <attr name="internalPadding" format="dimension"/>
+
+        <!-- the height of the bar -->
+        <attr name="barHeight" format="dimension"/>
+
+        <!-- the color of the bar that is not selected -->
+        <attr name="defaultColor" format="color"/>
+
+        <!-- the color of the bar that is selected -->
+        <attr name="activeColor" format="color"/>
+
+        <!-- the color of the text above thumbs -->
+        <attr name="textAboveThumbsColor" format="color"/>
+
+        <!-- set drawables for thumb handles -->
+        <attr name="thumbNormal" format="reference"/>
+        <attr name="thumbPressed" format="reference"/>
+        <attr name="thumbDisabled" format="reference"/>
+
+        <!-- thumb shadow specifications -->
+        <attr name="thumbShadow" format="boolean"/>
+        <attr name="thumbShadowColor" format="color"/>
+        <attr name="thumbShadowXOffset" format="dimension"/>
+        <attr name="thumbShadowYOffset" format="dimension"/>
+        <attr name="thumbShadowBlur" format="dimension"/>
+
+        <!-- to activate the thumbs and texts when the min and max values are the default ones (defaults to false) -->
+        <attr name="activateOnDefaultValues" format="boolean"/>
+    </declare-styleable>
+
+</resources>

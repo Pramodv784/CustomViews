@@ -1,0 +1,86 @@
+<resources>
+    <!-- Example customization of dimensions originally defined in res/values/dimens.xml
+         (such as screen margins) for screens with more than 820dp of available width. This
+         would include 7" and 10" devices in landscape (~800dp and ~1280dp respectively). -->
+
+    <!--Layout Top header size-->
+    <dimen name="business_btn_height">70dp</dimen>
+    <dimen name="header_height">60dp</dimen>
+    <dimen name="footer_height">45dp</dimen>
+    <dimen name="button_height">44dp</dimen>
+    <dimen name="button_height_medium">40dp</dimen>
+    <dimen name="button_height_small">36dp</dimen>
+    <dimen name="edittext_height">44dp</dimen>
+    <dimen name="edittext_height_large">90dp</dimen>
+
+    <dimen name="text_margin_70">70dp</dimen>
+    <dimen name="text_margin_65">65dp</dimen>
+    <dimen name="text_margin_60">60dp</dimen>
+    <dimen name="text_margin_55">55dp</dimen>
+    <dimen name="text_margin_50">50dp</dimen>
+    <dimen name="text_margin_45">45dp</dimen>
+    <dimen name="text_margin_40">40dp</dimen>
+    <dimen name="text_margin_35">35dp</dimen>
+    <dimen name="text_margin_30">30dp</dimen>
+    <dimen name="text_margin_25">25dp</dimen>
+    <dimen name="text_margin_20">20dp</dimen>
+    <dimen name="text_margin_15">15dp</dimen>
+    <dimen name="text_margin_12">12dp</dimen>
+    <dimen name="text_margin_10">10dp</dimen>
+    <dimen name="text_margin_8">8dp</dimen>
+    <dimen name="text_margin_5">5dp</dimen>
+    <dimen name="text_margin_4">5dp</dimen>
+    <dimen name="text_margin_3">4dp</dimen>
+    <dimen name="text_margin_2">2dp</dimen>
+    <dimen name="text_margin_0">0dp</dimen>
+
+    <dimen name="text_pading_60">60dp</dimen>
+    <dimen name="text_pading_55">55dp</dimen>
+    <dimen name="text_pading_50">50dp</dimen>
+    <dimen name="text_pading_45">45dp</dimen>
+    <dimen name="text_pading_40">40dp</dimen>
+    <dimen name="text_pading_35">35dp</dimen>
+    <dimen name="text_pading_30">30dp</dimen>
+    <dimen name="text_pading_25">25dp</dimen>
+    <dimen name="text_pading_20">20dp</dimen>
+    <dimen name="text_pading_15">15dp</dimen>
+    <dimen name="text_pading_12">12dp</dimen>
+    <dimen name="text_pading_10">10dp</dimen>
+    <dimen name="text_pading_8">8dp</dimen>
+    <dimen name="text_pading_5">5dp</dimen>
+    <dimen name="text_pading_4">5dp</dimen>
+    <dimen name="text_pading_2">2dp</dimen>
+    <dimen name="text_pading_0">0dp</dimen>
+
+    <dimen name="text_size_34">34sp</dimen>
+    <dimen name="text_size_32">32sp</dimen>
+    <dimen name="text_size_30">30sp</dimen>
+    <dimen name="text_size_28">28sp</dimen>
+    <dimen name="text_size_26">26sp</dimen>
+    <dimen name="text_size_24">24sp</dimen>
+    <dimen name="text_size_22">22sp</dimen>
+    <dimen name="text_size_20">20sp</dimen>
+    <dimen name="text_size_18">18sp</dimen>
+    <dimen name="text_size_17">17sp</dimen>
+    <dimen name="text_size_16">16sp</dimen>
+    <dimen name="text_size_15">15sp</dimen>
+    <dimen name="text_size_14">14sp</dimen>
+    <dimen name="text_size_13">13sp</dimen>
+    <dimen name="text_size_12">12sp</dimen>
+    <dimen name="text_size_11">11sp</dimen>
+    <dimen name="text_size_10">10sp</dimen>
+    <dimen name="text_size_9">9sp</dimen>
+    <dimen name="text_size_8">8sp</dimen>
+    <dimen name="text_size_0">0sp</dimen>
+
+    <dimen name="splash_logo_hw">600px</dimen>
+    <dimen name="splash_logo_width">520px</dimen>
+    <dimen name="splash_logo">440px</dimen>
+    <dimen name="splash_logo_height">282px</dimen>
+    <dimen name="circle_hw">260px</dimen>
+    <dimen name="home_button_hw">220px</dimen>
+    <dimen name="small_logo_hw">180px</dimen>
+    <dimen name="business_img_w">160px</dimen>
+    <dimen name="business_img_h">120px</dimen>
+
+</resources>
